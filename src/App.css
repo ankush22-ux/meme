@@ -62,8 +62,12 @@
 .Meme input{
   margin: 10px;
   padding: 5px;
+  background-color: #5C2A9D;
+  border:  2px dotted #B5076B;
 }
 .Meme button{
   margin: 10px;
   padding: 5px;
+  background-color: #5C2A9D;
+  border:  2px dotted #B5076B;
 }
