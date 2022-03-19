@@ -74,3 +74,11 @@
 .Meme button:active{
   transform: translateY(3px);
 }
+.template:active{
+  transform: translateY(3px);
+  
+}
+
+.template:hover{
+  transform: scale(1.03);
+}
