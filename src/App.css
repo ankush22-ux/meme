@@ -75,10 +75,20 @@
   transform: translateY(3px);
 }
 .template:active{
-  transform: translateY(3px);
+  transform: translateY(4px);
   
 }
 
 .template:hover{
   transform: scale(1.03);
+}
+.Meme input:focus{
+  border-color: #409eff;
+  outline: none;
+  box-shadow: 0 0 0 3px #B5076B;
+}
+.Meme  button:focus{
+  border-color: #409eff;
+  outline: none;
+  box-shadow: 0 0 0 2px #B5076B;
 }
